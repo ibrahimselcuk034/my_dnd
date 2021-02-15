@@ -1,7 +1,7 @@
 import React from "react";
 import _ from "lodash";
 import __ from "lodash";
-import { Motion, spring, presets } from "react-motion";
+import { Motion, spring } from "react-motion";
 
 const dataStructure = [
   [0, 1, 2],
